@@ -1,3 +1,6 @@
+Sitio web del lenguaje:
+- https://www.haskell.org/
+
 Material para aprender el lenguaje:
 
 - Curso de Universidad de Saint Andrews: https://www.seas.upenn.edu/~cis1940/spring13/lectures.html
