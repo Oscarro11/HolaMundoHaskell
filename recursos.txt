@@ -1,0 +1,5 @@
+Material para aprender el lenguaje:
+
+- Curso de Universidad de Saint Andrews: https://www.seas.upenn.edu/~cis1940/spring13/lectures.html
+- Lecturas de universidad: https://www.youtube.com/playlist?list=PLF1Z-APd9zK7usPMx3LGMZEHrECUGodd3
+- Curso gratuito mooc: https://haskell.mooc.fi/material/
